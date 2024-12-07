@@ -8,5 +8,5 @@ int main(){
   cout<<"Enter Second Number"<<endl;
   cin>>s;
   cout<<"Hello World"<<endl;
-}  
+}
   
