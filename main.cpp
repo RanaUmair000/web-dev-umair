@@ -6,7 +6,7 @@ int main(){
   cout<<"Enter First Number"<<endl;
   cin>>f;
   cout<<"Enter Second Number"<<endl;
-  cin>>s;  
+  cin>>s;
   cout<<"Hello World"<<endl;
 }
   
