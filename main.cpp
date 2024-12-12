@@ -7,6 +7,6 @@ int main(){
   cin>>f;
   cout<<"Enter Second Number"<<endl;
   cin>>s;
-  cout<<"Hello World"<<endl;
+  cout<<"Hello World"<<endl;  
 }
   
